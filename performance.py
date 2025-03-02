@@ -75,7 +75,6 @@ def accuracy_table():
     print(f"\nOverall Accuracy: {accuracy * 100:.2f}%")
 
 def confusion_matrix_table():
-    # print(true_labels, " ", predicted_labels, " ", class_names)
     # Generate the confusion matrix
     cm = confusion_matrix(true_labels, predicted_labels, labels=class_names)
     # Create a dataframe for better visualization
