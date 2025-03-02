@@ -1,0 +1,6 @@
+0 American goldfinch
+1 Barn owl
+2 Flamingo
+3 Emperor penguin
+4 Downy woodpecker
+5 Carmine bee-eater
